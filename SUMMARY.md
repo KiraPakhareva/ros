@@ -1,5 +1,20 @@
 # Table of contents
 
 * [Использование OpenAI совместно с ROS](README.md)
-* [Untitled](untitled.md)
+* [Пример обучения дронов](untitled.md)
+* [Получите подготовленный код для обучения дронов](poluchite-podgotovlennyi-kod-dlya-obucheniya-dronov.md)
+* [Тестирование того, что вы установили](testirovanie-togo-chto-vy-ustanovili/README.md)
+  * [Пакет drone\_training для обучения OpenAI с ROS](testirovanie-togo-chto-vy-ustanovili/paket-drone_training-dlya-obucheniya-openai-s-ros.md)
+* [Каталог src](katalog-src/README.md)
+  * [Инициализация алгоритма обучения](katalog-src/inicializaciya-algoritma-obucheniya.md)
+  * [Реализация цикла обучения](katalog-src/realizaciya-cikla-obucheniya.md)
+* [Об алгоритме обучения](ob-algoritme-obucheniya.md)
+* [Первая домашняя работа](pervaya-domashnyaya-rabota.md)
+* [Среда Gym](sreda-gym.md)
+* [Как настроить тест](kak-nastroit-test.md)
+* [Как построить график результатов тренировки](kak-postroit-grafik-rezultatov-trenirovki.md)
+* [Как улучшить процесс обучения](kak-uluchshit-process-obucheniya.md)
+* [Вторая домашняя работа](vtoraya-domashnyaya-rabota.md)
+* [Разработчики ROS Live показывают об этом примере OpenAI с ROS](razrabotchiki-ros-live-pokazyvayut-ob-etom-primere-openai-s-ros.md)
+* [Вывод](vyvod.md)
 
