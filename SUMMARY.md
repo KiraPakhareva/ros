@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Использование OpenAI совместно с ROS](README.md)
+* [Использование OpenAI совместно с ROS](ispolzovanie-openai-sovmestno-s-ros.md)
 * [Пример обучения дронов](untitled.md)
 * [Получите подготовленный код для обучения дронов](poluchite-podgotovlennyi-kod-dlya-obucheniya-dronov.md)
 * [Тестирование того, что вы установили](testirovanie-togo-chto-vy-ustanovili/README.md)
